@@ -9,10 +9,10 @@ Pode-se entender **REST** como um modelo de arquitetura que fornece diretrizes p
 **Rest API** é uma interface de programação de aplicações que segue as restrições de estilo da arquitetura REST, o que por sua vez possibilita as interações com servições web RESTful. Rest é a sigla em inglês de _transferência de estado representacional_. Ela é responsável por permitir que aplicações softwares tenham autorização de utilizar funcionalidades oferecidas por essa aplicação sem ter a necessidade de conhecer a implementação das mesmas. Esse fator garante segurança de código e das regras de negócio do software. REST API é a abstração de uma arquitetura que fornece dados padronizados para modelos de requisição HTTP. Uma REST API possui princípios que deverão ser seguidos, são eles:
 - **cliente-servidor:** Separação de responsabilidades, uma das carecterísticas da arquitetura _REST_
 - **interface uniforme:** Interoperabilidades entre cliente e servidor. O contrato de comunicação dessas partes devem seguir quatro princípios:
- * Identificação de recursos;
- * Representação de recursos;
- * Mensagens auto-descritivas;
- * Componente HATEOAS.
+1. Identificação de recursos;
+2. Representação de recursos;
+3. Mensagens auto-descritivas;
+4. Componente HATEOAS.
 - **stateless:** As requisições devem possuir informação necessária para realizar a comunicação, não sendo necessário que o servidor guarde o contexto
 - **cache:** Melhora performance de comunicação entre as aplicações
 - **camadas:** Cada camada deve ser capaz de se auto-gerenciar e serem independentes (de modo que a alteração em uma camada não altere o funcionamento das outras) e elas não podem conhecer as demais camadas. 
