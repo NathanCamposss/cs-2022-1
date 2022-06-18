@@ -4,12 +4,12 @@
 2. Nome: Nathan Luis Coelho Campos
 
 3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software?
-**Resposta:** No momento atualmente o conhecimento que possuo em relação ao desenvolvimento de software é oriundo principalmente das matérias ofertadas do curso de engenharia de software até o qaurto período e uma pequena parte de cursos online
+**Resposta:** No momento atualmente o conhecimento que possuo em relação ao desenvolvimento de software é oriundo principalmente das matérias ofertadas do curso de engenharia de software até o quarto período e uma pequena parte de cursos online.
 
 4. Quais Linguagens de Programação você domina?
-**Resposta:** As linguagens de programação que possuo um pouco mais de conhecimento no momento são: 
--Java 
--dart 
+**Resposta:** As linguagens de programação que possuo um pouco mais de conhecimento no momento são:
+-Java
+-dart
 -C
 Também tenho um breve conhecimento de python
 
