@@ -1,0 +1,4 @@
+# Exploração espacial: uma jornada humana no espaço - 16/06
+Essa palestra contou um pouco da trajetória e do contexto pra chegada dos seres humanos no espaço. *Wernher Von Braun* foi apresentado como personagem importante para a exploração espacial, sendo conhecido como o 'pai da astronáutica'. Na palestra foram apresentados grandes marcos para a era espacial como o primeiro satélite artificial (Sputnik 1), primeiro homem no espaço (Yuri Gagarin), primeiro homem a fazer caminhada espacial (Alexei), primeiro homem na lua (Neil Armstrong) e entre outros. O ponto mais importante que notei foi a exploração espacial na atualidade, nos últimos tempos algumas empresas tem se esforçado e trabalhado para estudar melhor o espaço devido às grandes oportunidades que esse tudo poderá trazer a longo prazo.
+
+
