@@ -4,3 +4,4 @@ salario = float(input('Informe seu salário:'))
 qtd_SM = salario/SALARIO_MINIMO
 
 print('O indivíduo possui um salário equivalente a {} salários mínimos'.format(qtd_SM))
+#codigo ok

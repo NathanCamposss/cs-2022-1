@@ -8,3 +8,4 @@ qtd_peca2 = int(input('Informe a quantidade de unidades da peça 2:'))
 
 total = (valor_uni1*qtd_peca1+valor_uni2*qtd_peca2)*((ipi/100)+1)
 print('O total a ser pago será de R${}'.format(total))
+#codigo ok
